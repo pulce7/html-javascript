@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <title></title>
+</head>
+<body>
+
+
+
+
+  <title>Partite Serie A</title>
+
+
+
+<h2>Partite Serie A</h2>
+<p>Ecco tutti i risultati dell'Inter in campionato:</p>
+<table border="1">
+  <tr>
+    <th>Partita</th>
+    <th>Risultato</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td>Inter-Monza</td>
+    <td> 2-0 </td>
+    <td>19/08/23</td>
+  </tr>
+  <tr>
+    <td>Cagliari-Inter</td>
+    <td> 0-2 </td>
+    <td>28/08/23</td>
+  </tr>
+  <tr>
+    <td>Inter-Monza</td>
+    <td> 2-0 </td>
+    <td>19/08/23</td>
+  </tr>
+  <tr>
+    <td>Inter-Fiorentina</td>
+    <td> 4-0 </td>
+    <td>3/09/23</td>
+  </tr>
+  <tr>
+    <td>Inter-Milan</td>
+    <td> 5-1 </td>
+    <td>16/09/23</td>
+  </tr>
+  <tr>
+    <td>Empoli-Inter</td>
+    <td> 0-1 </td>
+    <td>24/09/23</td>
+  </tr>
+  <tr>
+    <td>Inter-Sassuolo</td>
+    <td> 1-2 </td>
+    <td>27/09/23</td>
+  </tr>
+  <tr>
+    <td>Salernitana-Inter</td>
+    <td> 0-4 </td>
+    <td>30/09/23</td>
+  </tr>
+  <tr>
+    <td>Inter-Bologna</td>
+    <td> 0-1 </td>
+    <td>07/10/23</td>
+  </tr>
+  <tr>
+    <td>Torino-Inter</td>
+    <td> 0-3 </td>
+    <td>21/10/23</td>
+  </tr>
+   <tr>
+    <td>Inter-Roma</td>
+    <td> 1-0 </td>
+    <td>29/10/23</td>
+  </tr>
+   <tr>
+    <td>Atalanta-Inter</td>
+    <td> 1-2 </td>
+    <td>04/11/23</td>
+  </tr>
+   <tr>
+    <td>Inter-Frosinone</td>
+    <td> 2-0 </td>
+    <td>12/11/23</td>
+  </tr>
+  
+</table>
+<p>Per sapere altre informazioni sull'inter clicca sul seguente link:</p>
+<a href="home_inter.html">Clicca qui!</a>
+
+
+
+</body>
+</html>
