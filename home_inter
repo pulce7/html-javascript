@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <title></title>
+</head>
+<body>
+<h1>Inter </h1>
+<h2>Stagione 2023/2024</h2>
+<p>L'Inter è una squadra di serie a nonchè attualmente vicecampione di europa.L'allenatore è Simone inzaghi che ha vinto due Supercoppe italiane (2021 e 2022), due Coppe Italia (2021-2022, 2022-2023) e ha raggiunto una finale di Champions League (2022-2023).l'inter attualmente è prima in classifica di serie a con ben 31 punti in 13 giornate, ed è in piena lotta per la conquista dello scudetto.</p>
+<img src="interf.jpeg" alt="Foto dell'Inter" width="700" height="500">
+
+
+<h2>Elenco Giocatori</h2>
+
+<ul>
+    <li><a href="LauatroMartinez.html" Dettagli calciatori="Dettagli('Lautaro Martinez', 'Attaccante', '10')">Lautaro Martinez - Attaccante - Maglia 10</a></li>
+    <li><a href="Acerbi.html" Dettagli calciatori="Dettagli('Francesco Acerbi', 'Difensore', '15')">Francesco Acerbi - Difensore - Maglia 15</a></li>
+    <li><a href="NicoloBarella.html" Dettagli calciatori="Dettagli('Nicolò Barella', 'Centrocampista', '23')">Nicolò Barella - Centrocampista - Maglia 23</a></li>
+</ul>
+
+
+<h2>Marcatori</h2>
+<p>L'Inter dall'inizio della stagione ha segnato in totale 29 goal di cui quasi la metà li ha segnati lauatro Martinez</p>
+
+
+<table border="1">
+  <tr>
+    <th>Posizione</th>
+    <th>Nome</th>
+    <th>Cognome</th>
+    <th>Numero di reti</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Lautaro</td>
+    <td>Martinez</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Hakan</td>
+    <td> Çalhanoğlu</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Marcus</td>
+    <td>Thuram</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Federico</td>
+    <td>Dimarco</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Denzel</td>
+    <td>Dumfries</td>
+    <td>2</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
